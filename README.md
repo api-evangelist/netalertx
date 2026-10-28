@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NetAlertX is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://netalertx.com/
+NetAlertX provides centralized network visibility, continuous asset discovery, real-time alerts, and integration with smart-home and automation platforms. It supports Docker, Unraid, Home Assistant and offers over 80 notification services via Apprise. The open-source solution helps monitor devices, detect changes, and automate responses across single-site or multi-network deployments.
+
+**Areas:** Network Monitoring · Asset Discovery · Home Automation · Open Source · Self-Hosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://netalertx.com/)
+- [Documentation](https://docs.netalertx.com/)
+- [Getting started](https://docs.netalertx.com/PLUGINS_DEV_QUICK_START/)
+- [API reference](https://docs.netalertx.com/API/)
+- [Support](https://github.com/netalertx/NetAlertX/discussions)
+- [Changelog](https://github.com/netalertx/NetAlertX/releases)
+- [GitHub](https://github.com/netalertx)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/netalertx/](https://apis.io/providers/netalertx/).
